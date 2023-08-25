@@ -1,4 +1,14 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+  <div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=infinitumus&style=flat-square&color=blue" alt=""/>
+</div>
+  <h1>
+  Hello World
+    <img src="https://media.giphy.com/media/eNotYhz6gsoNBUzsUa/giphy.gif" width="30px"/>
+</h1>
+</div>
+
 
 <!--
 **Infinitumus/infinitumus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
